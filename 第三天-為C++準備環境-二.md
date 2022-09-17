@@ -67,18 +67,17 @@ GCC 就是 C++的編譯器(同時也能編譯 C、Object-C 跟最近很火的 GO
 
    ![Project Config](https://github.com/steven715/14th-IT-IRONMAN-DOC/blob/master/Images/project_config.PNG)
 
-3. 專案屬性都設定完後，可以執行建置專案(快捷鍵: Ctrl+Shift+B)，來編譯程式碼，IDE 下方的[輸出]視窗可以看到相關 Log，會看到IDE顯示的輸出目錄就是剛剛專案屬性裡面的目錄
+3. 專案屬性都設定完後，可以執行建置專案(快捷鍵: Ctrl+Shift+B)，來編譯程式碼，IDE 下方的[輸出]視窗可以看到相關 Log，會看到 IDE 顯示的輸出目錄就是剛剛專案屬性裡面的目錄
 
    ![Build Log](https://github.com/steven715/14th-IT-IRONMAN-DOC/blob/master/Images/build_log.PNG)
 
-4. 打開輸出的目錄，可以看到裡面有Hello World的執行檔，然後複製一份到另外的目錄
+4. 打開輸出的目錄，可以看到裡面有 Hello World 的執行檔，然後複製一份到另外的目錄
 
-    ![File Folder](https://github.com/steven715/14th-IT-IRONMAN-DOC/blob/master/Images/executable_file.PNG)
+   ![File Folder](https://github.com/steven715/14th-IT-IRONMAN-DOC/blob/master/Images/executable_file.PNG)
 
 5. 接著打開命令提示字元(CMD)，分別去執行兩個目錄裡面的執行檔，可以看到執行檔順利執行，這樣就是一個可以成功帶著走的執行檔了
 
-    ![CMD](https://github.com/steven715/14th-IT-IRONMAN-DOC/blob/master/Images/cmd_log.PNG)
-
+   ![CMD](https://github.com/steven715/14th-IT-IRONMAN-DOC/blob/master/Images/cmd_log.PNG)
 
 好的，以上就是第三天的全部內容，明天再繼續奮鬥~
 
