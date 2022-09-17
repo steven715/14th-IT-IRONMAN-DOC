@@ -8,7 +8,11 @@
 
 GCC 就是 C++的編譯器(同時也能編譯C、Object-C跟最近很火的GO，)，全名是 GNU Compiler Collection，GNU 是指[GNU operation system](https://www.gnu.org/gnu/thegnuproject.html)，是個可以跨平台的酷東西。
 
-那回歸到如果要在我的本機上開發，由於我電腦的OS都是Windows，而
+那回歸到如果要在我的本機上開發這件事，由於我電腦的OS都是Windows，而身為微軟陣營的人，就是要使用微軟陣營最強大的武器-*Visual Studio 2022*，號稱地表最強的IDE啦~
+
+## C++ IDE
+
+那有關於要怎麼安裝*Visual Studio 2022*的部分，不再本篇文章涵蓋的範圍內，
 
 ## 參考資料
 
